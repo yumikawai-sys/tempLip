@@ -1,0 +1,2 @@
+# To run demo
+python demo.py C:\Users\Yumi\Documents\code\LipNet-PyTorch\roi.mp4
